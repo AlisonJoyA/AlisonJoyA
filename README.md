@@ -1,8 +1,10 @@
-## Electronic Information Engineer
+# Electronic Information Engineer
 
 ### Education
 2020-2024| SHANGHAI UNIVERSITY: BSc. Electronic Information Engineering
+
 2019-2020| HUAQIAO UNIVERSITY: Chinese Language
+
 2015-2018| ALLIANCE GIRLS' HIGH SCHOOL: Kenya Certificate of Secondary Education
 
 ### Certifications
