@@ -9,12 +9,16 @@
 
 ### Certifications
 07/2024: IBM CERTIFICATION: Machine learning
+
 02/2022: SILC UNIVERSITY: Chinese Bridge Program
+
 08/2021: SHANGHAI UNIVERSITY: Doing Business in China
   
 ### Skills
 Python Programming
+
 Neural Networks
+
 Machine Learning
 
 ## Projects
