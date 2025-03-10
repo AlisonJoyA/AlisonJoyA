@@ -3,8 +3,8 @@
 I am a passionate about **Artificial Intelligence** and **Machine Learning**, with a background in **Electronic Information Engineering**. 
 
 ## 🔧 Technologies & Skills
-- Programming Languages: Python, C++, C
-- Frameworks: TensorFlow, Keras
+- Programming Languages: Python
+- Frameworks: TensorFlow, Keras, Pytorch
 - Tools: Jupyter, GitHub, Colab
 - Certifications: IBM in Machine Learning, Neural Networks, and Computer Vision
 
