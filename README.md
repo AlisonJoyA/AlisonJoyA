@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alison Joy
 
-I am a passionate about **Artificial Intelligence** and **Machine Learning**, currently updating my repositories to show you all the cool stuff I have been building. 
+I am passionate about **Artificial Intelligence** and **Machine Learning**, currently updating my repositories to show you all the cool stuff I have been building. 
 
 ## 🌟 Projects
 - **Fine-tuning Whisper for ASR**
