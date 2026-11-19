@@ -3,6 +3,7 @@
 I am passionate about **Artificial Intelligence** and **Machine Learning**, currently updating my repositories to show you all the cool stuff I have been building. 
 
 ## 🌟 Projects
+- **SQL query parser based on LLM**
 - **Fine-tuning Whisper for ASR**
 - **Optical Fiber Sensing Signal Recognition System**: Designed a system using Siamese Neural Networks.
 - **Brain Tumor Detection**: Developed a model using transfer learning with MobileNet.
